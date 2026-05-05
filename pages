@@ -1,0 +1,1 @@
+index.tsx (Dashboard)api/auth.ts (Login/Roles)api/logistics.ts (Pallet Scan/Handshake)api/hr.ts (Clock In/Out)api/downtime.ts (Downtime sheets)
