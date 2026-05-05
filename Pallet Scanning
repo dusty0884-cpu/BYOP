@@ -1,0 +1,1 @@
+Use a library like react-qr-reader in a Scanner.tsx file to scan pallet barcodes and update inventory status in the backend.
