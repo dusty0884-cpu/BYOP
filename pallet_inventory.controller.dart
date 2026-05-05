@@ -1,0 +1,1 @@
+ Updates inventory after scan.
