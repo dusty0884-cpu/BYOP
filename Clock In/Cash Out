@@ -1,0 +1,1 @@
+Build a /components/TimeClock.tsx component that maps to an HR/Payroll database table, capturing time-stamped location data (geofencing).
