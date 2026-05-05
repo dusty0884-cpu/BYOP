@@ -1,0 +1,1 @@
+ Create a /pages/driver/handshake page that requires a signature from both the driver and the receiver to finalize a load in the database.
