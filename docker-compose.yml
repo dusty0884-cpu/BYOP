@@ -1,0 +1,18 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - LOGISTICS_API_URL=${LOGISTICS_API_URL}
+      - DB_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - .:/app  # Allows live code updates without rebuilding
+
+  ngrok:
+    image: ngrok/ngrok:latest
+    ports:
+      - "4040:4040"
+    environment:
+      - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN}
+    command: http app:3000
