@@ -1,27 +1,27 @@
+import type { VercelConfig } from '@vercel/config';
 
-import { type VercelConfig } from '@vercel/config/v1';
-
-// Example: Programmatic Config
 export const config: VercelConfig = {
-  // Use Vercel to build your app
+  // 1. Build & Install Settings
   buildCommand: 'npm run build',
+  installCommand: 'npm install',
   
-  // Custom headers
-  headers: [
-    {
-      source: '/(.*)',
-      headers: [
-        {
-          key: 'X-Frame-Options',
-          value: 'DENY',
-        },
-      ],
-    },
+  // 2. Output and Routing
+  outputDirectory: '.next', // or 'dist', 'public', etc.
+  trailingSlash: false,
+  cleanUrls: true,
+
+  // 3. Dynamic Routes & Redirects
+  routes: [
+    { src: '/api/(.*)', dest: '/api/index.js' },
+    { handle: 'filesystem' },
+    { src: '/(.*)', dest: '/index.html' },
   ],
 
-  // Rewrites for API or Single Page Apps
-  rewrites: [
-    { source: '/api/:match*', destination: '/api/:match*' },
-    { source: '/(.*)', destination: '/index.html' },
-  ],
+  // 4. Serverless Function Settings
+  functions: {
+    'api/*.ts': {
+      maxDuration: 10,
+      runtime: 'nodejs18.x'
+    }
+  }
 };
