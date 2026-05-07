@@ -1,1 +1,1 @@
-npm config set prefix '~/.npm-global'
+prefix=~/.npm-global
