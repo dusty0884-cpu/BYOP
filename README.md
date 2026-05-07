@@ -8,3 +8,4 @@ Communication Logging: Securely archives chat logs and walkie-talkie transmissio
 HR Integration: Provides a direct channel for secure communication between staff and human resources.
 Data Privacy Notice
 This tool is built strictly for work-related data collection. It monitors and records operational communications and logistics data to improve efficiency and maintain compliance within the workplace. This system does not track personal financial information or earnings.
+Comprehensive guide (Project overview, setup instructions, and "how-to" for employees).
