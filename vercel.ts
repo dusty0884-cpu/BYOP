@@ -1,6 +1,1 @@
-import type { VercelConfig } from '@vercel/config';
-
-export const config: VercelConfig = {
-  buildCommand: 'npm run build',
-  // Dynamic routing or settings go here
-};
+Vercel CLI command: npx vercel inspect dpl_BfS1sv2YRWu7HF7MKqzJC3A5mu8E --logs
