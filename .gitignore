@@ -1,1 +1,4 @@
  Defines files to ignore (e.g., .env, node_modules, *.log).
+LOGISTICS_API_URL=https://logistics-provider.com
+LOGISTICS_API_KEY=your_secure_key_here
+NGROK_AUTHTOKEN=your_ngrok_token
