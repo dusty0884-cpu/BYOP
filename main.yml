@@ -1,1 +1,20 @@
  Automates testing and building the tool to ensure stability.
+/
+├── .github/
+│   └── workflows/
+│       └── main.yml
+├── docs/
+│   └── training-manual-byod.pdf
+├── policies/
+│   └── BYOD-POLICY-GLOBAL.md
+├── src/
+│   ├── auth.py
+│   ├── logistics-api.py
+│   └── education-module.py
+├── .gitignore
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── SECURITY.md
+└── requirements.txt  (or package.json)
