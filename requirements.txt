@@ -1,0 +1,1 @@
+ Defines project dependencies (Node.js/Python).
