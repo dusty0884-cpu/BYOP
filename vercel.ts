@@ -1,13 +1,6 @@
-// This file configures the deployment settings and environment 
-// integration for the SockiiisBack logistics tool on the Vercel platform.
+import type { VercelConfig } from '@vercel/config';
 
-export const config = {
-  runtime: 'edge',
+export const config: VercelConfig = {
+  buildCommand: 'npm run build',
+  // Dynamic routing or settings go here
 };
-
-export default async function handler(req: Request) {
-  return new Response(JSON.stringify({ status: 'Vercel integration active' }), {
-    status: 200,
-    headers: { 'Content-Type': 'application/json' },
-  });
-}
