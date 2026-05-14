@@ -28,3 +28,16 @@ Premium Workers: 0.003% return on yearly earnings.
 Geofencing for Workforce and Education
 The system creates a digital perimeter around the site for HR and service personnel. Crossing the boundary triggers an automatic punch in and out, giving workers access to their paycheck right away.
 Administrators use the same geofencing to track student presence in learning zones, ensuring a direct connection between teachers and students. This program also gives teachers a direct line to parents, making it easier to share updates on student progress and location without using paper logs.
+This platform serves as a business logistics and educational pool designed for real-time warehouse management and vocational training. It integrates site-wide auditing with a shovel-ready infrastructure that is 100% digital and self-funding.
+The core of the program focuses on:
+Operational Logistics: High-level workforce oversight with zero-touch automation for check-ins and check-outs.
+Educational Hubs: Vocational training for trades like masonry, welding, and HVAC, connecting teachers directly with parents.
+Self-Funding Model: A proprietary system that bypasses budget delays to provide immediate results.
+8-Split Allocation: Revenue is automatically divided to support:
+Service Personnel
+Veterans/VA
+Kids
+Orphans
+Disaster Relief
+Farmers
+Education
