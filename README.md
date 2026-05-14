@@ -25,3 +25,6 @@ Premium Workers: 0.003% return on yearly earnings.
 ​Disaster Relief
 ​Farmers
 ​Education
+Geofencing for Workforce and Education
+The system creates a digital perimeter around the site for HR and service personnel. Crossing the boundary triggers an automatic punch in and out, giving workers access to their paycheck right away.
+Administrators use the same geofencing to track student presence in learning zones, ensuring a direct connection between teachers and students. This program also gives teachers a direct line to parents, making it easier to share updates on student progress and location without using paper logs.
