@@ -41,3 +41,20 @@ Orphans
 Disaster Relief
 Farmers
 Education
+Installation & Launch
+Install Node.js.
+Run npm install in your terminal.
+Run npm start to view the app.
+Key Technical Features
+PWA Ready: Instant smartphone install without an app store.
+Geofencing: Automatic clock-ins and safety tracking via GPS.
+Secure Comms: All walkie-talkie and HR chats are encrypted and private.
+Self-Funding Mission
+A fee of $13.99 - $19.99 supports our 7-split model:
+Service Personnel
+Service Personnel Housing & VA Programs
+Starving Kids
+Orphans
+Disaster Relief
+Farmers
+Education
