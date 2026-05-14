@@ -9,3 +9,19 @@ HR Integration: Provides a direct channel for secure communication between staff
 Data Privacy Notice
 This tool is built strictly for work-related data collection. It monitors and records operational communications and logistics data to improve efficiency and maintain compliance within the workplace. This system does not track personal financial information or earnings.
 Comprehensive guide (Project overview, setup instructions, and "how-to" for employees). Instructions to run npm install and npm start.
+Platform Fees & ROI
+​Standard User: $13.99
+Business & School: $19.99
+Top Tier: "Three Cheers" Business Size
+​Schools & Businesses: 0.003% annual return.
+Premium Workers: 0.003% return on yearly earnings.
+​Funding Splits
+​84% Administration & Infrastructure
+​16% Humanitarian Services (2.28% each):
+​Service Personnel
+​Veterans/VA Programs
+​Starving Kids
+​Orphans
+​Disaster Relief
+​Farmers
+​Education
