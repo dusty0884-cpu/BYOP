@@ -58,3 +58,8 @@ Orphans
 Disaster Relief
 Farmers
 Education
+How to Run This App
+Download the parts: Open your command screen and type npm install. This gets everything ready.
+Start the app: Type npm start. This turns the system on.
+Open the app: Go to your internet browser and type localhost:3000.
+Important Note: For the walkie-talkie and the GPS clock-in to work, you must click "Allow" when the app asks to use your Microphone and Location.
