@@ -25,3 +25,11 @@ export const config: VercelConfig = {
     }
   }
 };
+{
+  "existing-settings": "here",
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@1.0.0"
+    }
+  }
+}
