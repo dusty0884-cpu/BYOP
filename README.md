@@ -63,3 +63,6 @@ Download the parts: Open your command screen and type npm install. This gets eve
 Start the app: Type npm start. This turns the system on.
 Open the app: Go to your internet browser and type localhost:3000.
 Important Note: For the walkie-talkie and the GPS clock-in to work, you must click "Allow" when the app asks to use your Microphone and Location.
+Federal Protections and Right to Self-Employment Infrastructure
+​This digital architecture, its self-funding infrastructure, and its parallel logistics operations are fully protected under the Rehabilitation Act of 1973.
+​Under federal mandate, the right to pursue independent self-employment, economic self-sufficiency, and the establishment of private-sector business infrastructure is legally protected and backed, ensuring that systemic, technical, or financial roadblocks cannot impede the deployment of this platform. By utilizing these services, all participating entities, businesses, and users explicitly agree to operate in alignment with these protected structures, allowing this parallel system to seamlessly bridge communications, automate logistics data, and secure operational continuity across all designated training hubs and service personnel programs.
